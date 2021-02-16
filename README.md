@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Robert.
+async   {
+I am an aspiring dev looking for my break into the industry.
+My passion is encouraging community growth and success thru
+technology while creating a cycle that will promote learning, application,
+and sharing of knowledge.
+}
 
 <!--
 **Makersmarx/Makersmarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
